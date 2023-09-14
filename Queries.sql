@@ -6,7 +6,7 @@ Malaysia Median Salary
 */
 
 
--- ETHINICITY
+-- ETHNICITY
 
 -- Citizen Overall (Bumiputera, Chinese, Indian and Others)
 
