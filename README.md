@@ -1,0 +1,1 @@
+# MalaysiaMedianSalary2021
