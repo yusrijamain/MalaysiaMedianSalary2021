@@ -30,9 +30,8 @@ Merge all the tables in a single Excel workbook, separated by worksheets that in
 ![Malaysia Median Salary Dashboard 1](https://github.com/yusrijamain/malaysia-median-salary-2021/assets/129306959/18bc7e40-e277-44a2-8025-7fe6d2ae0b80)
 ![Malaysia Median Salary Dashboard 2](https://github.com/yusrijamain/malaysia-median-salary-2021/assets/129306959/d3924a2e-5adc-45b4-9d35-8fa713502f1b)
 
-
-* Please click [here](https://medium.com/@myusrijamain/malaysia-median-salary-e23e0f8c40da) to view the full report on the project
 * Please click [here](https://public.tableau.com/shared/Q826N3M95?:display_count=n&:origin=viz_share_link) to view the interactive dashboard
+* Please click [here](https://medium.com/@myusrijamain/malaysia-median-salary-e23e0f8c40da) to view the full report on the project
 
 
 
