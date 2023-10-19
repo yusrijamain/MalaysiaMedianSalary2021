@@ -19,7 +19,7 @@ FROM ethnicity
 WHERE variable <> 'Overall' AND sex = 'overall')
 
 SELECT variable, year, median, 
-	((median-previous_median)/previous_median)*100 as percent_change,
+((median-previous_median)/previous_median)*100 as percent_change,
 	AVG(ISNULL(((median-previous_median)/previous_median)*100, 0)) over (partition by variable) as avg_change_per_variable
 FROM cte_citizen
 WHERE variable <> 'Overall' AND sex = 'overall' AND variable IN('Bumiputera', 'Chinese', 'Indian', 'Other (Citizen)')
